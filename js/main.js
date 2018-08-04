@@ -3,6 +3,7 @@ let restaurants,
   cuisines
 var newMap
 var markers = []
+var mapboxApiKey = 'getting started !';
 
 /**
  * Fetch neighborhoods and cuisines as soon as the page is loaded.
